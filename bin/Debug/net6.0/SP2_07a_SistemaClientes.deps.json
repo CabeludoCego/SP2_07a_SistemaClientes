@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SP2_07a_SistemaClientes/1.0.0": {
+        "runtime": {
+          "SP2_07a_SistemaClientes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP2_07a_SistemaClientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
